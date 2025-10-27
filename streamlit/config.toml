@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+
+[general]
+# 安定版のPythonバージョンを指定
+# Streamlit Cloudで広くサポートされているバージョンを選択
+python = "3.11"
