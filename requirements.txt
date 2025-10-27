@@ -1,0 +1,8 @@
+# 推論に必要なライブラリ
+transformers
+datasets
+numpy
+pillow
+scikit-learn
+torch
+streamlit
