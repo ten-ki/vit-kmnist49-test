@@ -9,7 +9,7 @@ import torch
 
 # 1. モデルのパス設定
 # GitHubリポジトリのルートにあるモデルフォルダ名を指定
-MODEL_NAME = "vit-kuzushiji49-final-tpu-xla-speed" 
+MODEL_NAME = "KARAGE-KUN/vit-kuzushiji49-final-tpu-xla-speed" 
 
 # 2. モデルの初期化（@st.cache_resource でキャッシュし、ロードを高速化）
 # device=-1 はCPUを意味します（Streamlit CloudはGPUがないため）
